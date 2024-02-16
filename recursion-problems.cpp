@@ -1,11 +1,7 @@
 /*
  * File: recursion-problems.cpp
  * --------------
- * Name: [Alexis Carreto]
- *
- * Assignment 3 - Recursion Problems
- *
- * Write all your code in this file!
+
  */
 
 #include <iostream>
