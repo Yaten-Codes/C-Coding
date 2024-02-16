@@ -1,11 +1,7 @@
 /*
  * File: assign5.cpp
  * --------------
- * Name: [Alexis Carreto]
- *
- * Write your code for Assignment 5 (C++ Strings) in the places indicated
- * in this file.
- */
+*/
 
 #include <iostream>
 #include "util.h"
